@@ -1,0 +1,19 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+# Local secrets and environment
+.env
+.env.*
+!.env.example
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local backups and temporary files
+*backup*.py
+*backupp*.py
+*before_*.py
